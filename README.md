@@ -9,7 +9,7 @@
 Клиент изначально проектировался под сервера **Jenro**, **MineLand** и **MineBlaze** — с учётом их античитов, режимов и типичных настроек. При этом он подходит и для других проектов с похожими условиями.
 
 ### Главное о клиенте
-
+- **Рейдж\Семи-Рейдж** - клиент больше создан для сильной и не аккуратной игры но предназначеный для быстрых побед.
 - **250+ функций** — движение, бой, игрок, мир, визуал и утилиты.
 - **Создан под Grim и Matrix** — поведение модулей подобрано так, чтобы снижать шум и сохранять стабильность на этих античитах.
 - **Сделан под Jenro, MineLand и MineBlaze** — учитываются античиты, задержки и особенности режимов этих проектов.
@@ -70,7 +70,7 @@
 The client was originally designed for **Jenro**, **MineLand** and **MineBlaze** — taking into account their anticheats, gamemodes and typical settings. It also works on other projects with similar conditions.
 
 ### Key facts
-
+- **Rage/Semi-Rage** – a client designed primarily for aggressive, less cautious gameplay, aimed at securing quick victories.
 - **250+ features** — movement, combat, player, world, visual and utility modules.
 - **Built for Grim and Matrix** — module behavior is tuned to reduce noise and stay stable on these anticheats.
 - **Made for Jenro, MineLand and MineBlaze** — anticheats, delays and gamemode specifics of these projects are taken into account.
