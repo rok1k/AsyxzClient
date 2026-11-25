@@ -1,10 +1,10 @@
-# AbryganClient (Minecraft Client: 1.16.5)
+# AsyxzClient (Minecraft Client: 1.16.5)
 
 ![Preview photo](preview.png)
 
 ## 🇷🇺 (Русская версия)
 
-**AbryganDlc** — клиент для Minecraft, созданный под стабильную работу на серверах с античитами **Grim** и **Matrix**.
+**Asyxz** — клиент для Minecraft, созданный под стабильную работу на серверах с античитами **Grim** и **Matrix**.
 
 Клиент изначально проектировался под сервера **Jenro**, **MineLand** и **MineBlaze** — с учётом их античитов, режимов и типичных настроек. При этом он подходит и для других проектов с похожими условиями.
 
@@ -52,8 +52,8 @@
 
 ### FAQ
 
-* Telegram Канал: https://t.me/AbryganClient
-* Telegram Логи Овнера: https://t.me/AB_DevLog
+* Telegram Канал: https://t.me/asyxz_cl
+* Telegram Логи Овнера: https://t.me/asyxz_dev
 * Youtube: https://www.youtube.com/@by_rok1k
 
 
@@ -65,7 +65,7 @@
 
 ## 🇬🇧 (English Version)
 
-**AbryganDlc** is a Minecraft client built for stable performance on servers protected by **Grim** and **Matrix** anticheats.
+**Asyxz** is a Minecraft client built for stable performance on servers protected by **Grim** and **Matrix** anticheats.
 
 The client was originally designed for **Jenro**, **MineLand** and **MineBlaze** — taking into account their anticheats, gamemodes and typical settings. It also works on other projects with similar conditions.
 
@@ -113,8 +113,8 @@ The client ships with **250+ features**. Main categories:
 
 ### FAQ
 
-* Telegram Channel: https://t.me/AbryganClient
-* Telegram DevLogs: https://t.me/AB_DevLog
+* Telegram Channel: https://t.me/asyxz_cl
+* Telegram DevLogs: https://t.me/asyxz_dev
 * Youtube: https://www.youtube.com/@by_rok1k
 
 
